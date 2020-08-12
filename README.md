@@ -2,7 +2,7 @@
 
 [View Project Running Here](https://mvilarinho.github.io/piEstimation)
 
-[View Code Here](https:/github.com/mvilarinho/piEstimation/)
+[View Code Here](https://github.com/mvilarinho/piEstimation/)
 
 Estimation of π using Monte Carlo method is an old way to apply some maths concepts like probability, geometry, and numerical sequences in a same activity. 
 
