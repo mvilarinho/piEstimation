@@ -1,11 +1,12 @@
-# A Random Walk written p5js
+# A Estimation of π  written in p5js
 
-[View Project Here](https://mvilarinho.github.io/randomWalk/)
+[View Project Running Here](https://mvilarinho.github.io/piEstimation)
 
-Inspired after watching [this web] (https://digitalight.github.io/p5js-chaos-game/) and [these works] (https://www.dynamicmath.xyz/)
+[View Code Here](https:/github.com/mvilarinho/piEstimation/)
 
-[![Random Walk](https://img.youtube.com/vi/stgYW6M5o4k/0.jpg)](https://www.youtube.com/watch?v=stgYW6M5o4k "Random Walk")
+Estimation of π using Monte Carlo method is an old way to apply some maths concepts like probability, geometry, and numerical sequences in a same activity. 
 
-This is my p5js sketch that involves looking at a mathematical model which has a lot of applications in Science.
+[![Random Walk](https://img.youtube.com/vi/VJTFfIqO4TU/0.jpg)](https://www.youtube.com/watch?v=VJTFfIqO4TU "Estimation of π")
 
-I also used bootstrap to style the page and also made an About page.asdd
+This `p5js` sketch is a animated version of [this one](http://mvilarinho.pythonanywhere.com/pi/10000) developped in python.
+
